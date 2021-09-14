@@ -1,4 +1,6 @@
 # Delete-image-change_color-of-button-by-clicking-text-button
+Live Output link:- https://snack.expo.dev/@aman16sit/delete-image-change_color-of-button-by-clicking-text-button-in-react-native-app
+
 create React-native app :- 
        npx react-native init newone
 
